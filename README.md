@@ -12,19 +12,6 @@ IoT Multimeter using ESP32 & PIC16F887
 
 ![3D](/Hardware%20Design/PCB_3D.png)
 
-# Firebase 
-
-![Firebase_interface](/Mobile%20App/firebase_1.jpg)
-
-# Mobile App
-
-![MobileApp_interface_1](/Mobile%20App/mobil_11.jpg)
-
-![MobileApp_interface_2](/Mobile%20App/mobil_12.jpg)
-
-![MobileApp_interface_3](/Mobile%20App/mobil_13.jpg)
-
-![MobileApp_interface_3](/Mobile%20App/mobil_14.jpg)
 
 # Reel Photos
 
@@ -643,3 +630,17 @@ void loop(){
 }
 
 ```
+
+# Firebase 
+
+![Firebase_interface](/Mobile%20App/firebase_1.jpg)
+
+# Mobile App
+
+![MobileApp_interface_1](/Mobile%20App/mobil_11.jpg)
+
+![MobileApp_interface_2](/Mobile%20App/mobil_12.jpg)
+
+![MobileApp_interface_3](/Mobile%20App/mobil_13.jpg)
+
+![MobileApp_interface_3](/Mobile%20App/mobil_14.jpg)
