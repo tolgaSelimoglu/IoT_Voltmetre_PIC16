@@ -1,17 +1,4 @@
-/* ESP32 HTTP IoT Server Example for Wokwi.com
 
-  https://wokwi.com/projects/320964045035274834
-
-  To test, you need the Wokwi IoT Gateway, as explained here:
-
-  https://docs.wokwi.com/guides/esp32-wifi#the-private-gateway
-
-  Then start the simulation, and open http://localhost:9080
-  in another browser tab.
-
-  Note that the IoT Gateway requires a Wokwi Club subscription.
-  To purchase a Wokwi Club subscription, go to https://wokwi.com/club
-*/
 
 
 #include <Arduino.h>
@@ -216,22 +203,3 @@ void loop(){
     }
 }
 
-/*
-  if (Firebase.ready() && signupOK && (millis() - sendDataPrevMillis > 15000 || sendDataPrevMillis == 0)){
-    sendDataPrevMillis = millis();
-    
-    
-    // Write an Float number on the database path test/float
-    if (Firebase.RTDB.setFloat(&fbdo, "test/float", 0.01 + random(0,100))){
-      Serial.println("PASSED");
-      Serial.print("PATH: ");
-      Serial.println(fbdo.dataPath());
-      Serial.print("TYPE: ");
-      Serial.println(fbdo.dataType());
-    }
-    else {
-      Serial.println("FAILED");
-      Serial.print("REASON: ");
-      Serial.println(fbdo.errorReason());
-    }
-  }*/
