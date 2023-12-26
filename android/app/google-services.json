@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211940387045",
+    "project_id": "picoxiloscope",
+    "storage_bucket": "picoxiloscope.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211940387045:android:f17c46006e635d78a98c0c",
+        "android_client_info": {
+          "package_name": "com.example.picoxiloscope"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkTU_Nxw6zlUKAES_fkq4OqwsKCTKuVbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
